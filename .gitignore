@@ -1,0 +1,23 @@
+# 虛擬環境
+venv/
+.venv/
+env/
+
+# Python 編譯快取
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# 系統檔
+.DS_Store
+Thumbs.db
+
+# 編輯器
+.vscode/
+.idea/
+
+# PyTorch Lightning logs
+lightning_logs/
